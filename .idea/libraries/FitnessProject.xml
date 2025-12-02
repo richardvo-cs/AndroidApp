@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FitnessProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FitnessProject.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
